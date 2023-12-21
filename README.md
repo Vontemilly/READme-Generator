@@ -1,31 +1,49 @@
+
 # README Generator
-  ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg) 
 
-  ## Table of Contents
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Tests](#tests)
-  - [Questions](#questions)
- 
-  ## Description
-  The README Generator is a Node.js application that prompts users for information about their projects and generates a well-structured README file. It uses the Inquirer library to collect user input through a series of questions.
-  
-  ## Installation
-  Clone the repository: git clone https://github.com/von-milly/READme-Generator.git, Navigate to the project folder: cd readme generator,  Install dependencies: npm i
-  
-  ## Usage
-  To use the README Generator, run the following command: node index.js Follow the prompts to enter information about your project. The application will generate a README file based on your responses.
-  
-  ## Contribution
-   If you would like to contribute to the README Generator, please follow these guidelines:Fork the repository, Create a new branch: git checkout -b feature/new-feature, Make your changes and commit them: git commit -m 'Add new feature', Push to the branch: git push origin feature/new-feature, Open a pull request.
-  
-  ## Tests
-  To run tests for the README Generator, use the following command: npm test
-  
-  ## Questions
-  For additional questions, contact [von-milly](https://github.com/von-milly) or email at dmbootcampucf@gmail.com.
+## Table of Contents
+Description
+Installation
+Usage
+Contribution
+Tests
+Questions
+License
+Description
+The README Generator is a Node.js application designed to simplify the process of creating README files for your projects. By using this command line interface (CLI) tool, you can efficiently generate a well-structured README with essential sections like project description, installation instructions, usage guidelines, contribution details, and more.
 
-  ## License Section
-  The project is licensed under the [Apache License 2.0](https://opensource.org/licenses/Apache-2.0). A permissive free software license written by the Apache Software Foundation.
+# Installation
+To install the README Generator, follow these steps:
+
+Clone the repository: git clone https://github.com/von-milly/readme-generator.git
+Navigate to the project folder: cd readme-generator
+Install dependencies: npm install
+
+# Usage
+To use the README Generator, run the following command:
+
+node index.js
+Answer the prompts to provide information about your project. The application will then generate a README file based on your responses.
+
+# Contribution
+Contributions to the README Generator project are welcome! If you wish to contribute, please follow these guidelines:
+
+# Fork the repository
+Create a new branch: git checkout -b feature/new-feature
+Make your changes and commit them: git commit -m 'Add new feature'
+Push to the branch: git push origin feature/new-feature
+Open a pull request
+
+# Tests
+To run tests for the README Generator, use the following command:
+
+npm test
+
+# Questions
+For additional questions or support, please contact Devonte Miller or email at your.email@example.com.
+
+# License
+This project is licensed under the MIT License. A permissive open source license.
+
+# Author
+Devonte Miller 
